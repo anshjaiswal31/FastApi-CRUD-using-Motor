@@ -11,7 +11,7 @@ Create the Python virtual environment using the following command:
 Step 2:
 Initialize the Python virtual environment:
 
-<b>& c:/Users/ajaiswal/Documents/fastapiMotor/env/Scripts/Activate.ps1<b/>
+<b>& <folder directory>/env/Scripts/Activate.ps1<b/>
 
 Step 3:
 Install the required libraries as in the requirements folder:
